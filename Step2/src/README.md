@@ -9,7 +9,7 @@ Senkron Yapı:
      senkron olarak gerçekleştirilebilir.
 
 
-Asencron Yapı:
+Asenkron Yapı:
   - Asenkron işlemler, işlemlerin aynı anda veya paralel olarak çalışmasını sağlar. Bir işlem tamamlanmadan diğer işlemler devam edebilir.
   - Asenkron yapılar, işlem sırasında diğer işlerin tamamlanmasını beklemeksizin işlem yapılmasını sağlar. Bu sayede performansı artırır ve 
     bloklamaları önler.
