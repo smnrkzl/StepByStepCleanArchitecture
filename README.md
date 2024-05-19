@@ -7,13 +7,14 @@ Clean Architecture Nedir?
 Clean Architecture, yazılım sistemlerinin farklı bileşenlerinin sorumluluklarını ayırarak daha bakımı kolay, test edilebilir ve ölçeklenebilir bir kod tabanı oluşturma amacına odaklanan bir yazılım tasarım prensibidir. Robert C. Martin tarafından 2017 yılında geliştirilen bu mimari, yazılım karmaşıklığını azaltmak ve daha sağlam ve sürdürülebilir sistemler oluşturmak için bir dizi kural ve ilke sunar.
 
 Clean Architecture'ın Temel İlkeleri:
-   -Ayrımcılık (Separation of Concerns): Uygulamanın sorumlulukları, açıkça tanımlanmış sınırları olan ayrı katmanlara bölünür. Her katmanın kendine özgü bir görevi vardır ve diğer katmanlarla 
+   1. Ayrımcılık (Separation of Concerns): Uygulamanın sorumlulukları, açıkça tanımlanmış sınırları olan ayrı katmanlara bölünür. Her katmanın kendine özgü bir görevi vardır ve diğer katmanlarla 
     minimum düzeyde bağlantı kurar.
-   -Bağımlılık Kuralı (Dependency Rule): Katmanlar arasındaki bağımlılıklar tek yönlü olmalıdır. Üst katmanlar alt katmanlara bağımlı olmalı, alt katmanlar ise üst katmanlara bağımlı olmamalıdır. Bu, 
+   2. Bağımlılık Kuralı (Dependency Rule): Katmanlar arasındaki bağımlılıklar tek yönlü olmalıdır. Üst katmanlar alt katmanlara bağımlı olmalı, alt katmanlar ise üst katmanlara bağımlı 
+    olmamalıdır. Bu, 
     katmanların birbirinden bağımsız olarak geliştirilmesine ve test edilmesine olanak tanır.
-   -Soyutlama (Abstraction): Katmanlar arasındaki iletişim, soyut arayüzler aracılığıyla yapılmalıdır. Bu, somut uygulama ayrıntılarını gizler ve katmanların birbirinden bağımsız olarak 
+   3.Soyutlama (Abstraction): Katmanlar arasındaki iletişim, soyut arayüzler aracılığıyla yapılmalıdır. Bu, somut uygulama ayrıntılarını gizler ve katmanların birbirinden bağımsız olarak 
     değiştirilmesine olanak tanır.
-   -İçten Dışa (Inside-Out): Uygulama, dış çerçevelere veya veritabanlarına değil, iç iş mantığına odaklanmalıdır. Dış unsurlar, soyut arayüzler aracılığıyla uygulamaya dahil edilir.
+   4.İçten Dışa (Inside-Out): Uygulama, dış çerçevelere veya veritabanlarına değil, iç iş mantığına odaklanmalıdır. Dış unsurlar, soyut arayüzler aracılığıyla uygulamaya dahil edilir.
 
 
 Clean Architecture Katmanları:
@@ -41,7 +42,7 @@ Clean Architecture Katmanları:
 
 
 Clean Architecture'ın Faydaları:
-   -Bakımı Kolaylaştırır: Modüler yapısı sayesinde kodun anlaşılması, değiştirilmesi ve genişletilmesi kolaylaşır.
-   -Test Edilebilirliği Artırır: İş mantığı core katmanda izole edildiği için birim testleri daha kolay hale gelir.
-   -Esneklik Sağlar: Belirli teknolojilere bağımlı olmadığından farklı veritabanları, çerçeveler ve platformlarla entegrasyona izin verir.
-   -Tekrar Kullanılabilirliği Artırır: Core katmandaki bileşenler, benzer iş mantığı paylaşan farklı projelerde tekrar kullanılabilir.
+   1.Bakımı Kolaylaştırır: Modüler yapısı sayesinde kodun anlaşılması, değiştirilmesi ve genişletilmesi kolaylaşır.
+   2.Test Edilebilirliği Artırır: İş mantığı core katmanda izole edildiği için birim testleri daha kolay hale gelir.
+   3.Esneklik Sağlar: Belirli teknolojilere bağımlı olmadığından farklı veritabanları, çerçeveler ve platformlarla entegrasyona izin verir.
+   4.Tekrar Kullanılabilirliği Artırır: Core katmandaki bileşenler, benzer iş mantığı paylaşan farklı projelerde tekrar kullanılabilir.
