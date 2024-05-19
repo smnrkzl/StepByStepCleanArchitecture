@@ -43,6 +43,9 @@ Clean Architecture Katmanları:
 Clean Architecture'ın Faydaları:
 
    1.Bakımı Kolaylaştırır: Modüler yapısı sayesinde kodun anlaşılması, değiştirilmesi ve genişletilmesi kolaylaşır.
+   
    2.Test Edilebilirliği Artırır: İş mantığı core katmanda izole edildiği için birim testleri daha kolay hale gelir.
+   
    3.Esneklik Sağlar: Belirli teknolojilere bağımlı olmadığından farklı veritabanları, çerçeveler ve platformlarla entegrasyona izin verir.
+   
    4.Tekrar Kullanılabilirliği Artırır: Core katmandaki bileşenler, benzer iş mantığı paylaşan farklı projelerde tekrar kullanılabilir.
