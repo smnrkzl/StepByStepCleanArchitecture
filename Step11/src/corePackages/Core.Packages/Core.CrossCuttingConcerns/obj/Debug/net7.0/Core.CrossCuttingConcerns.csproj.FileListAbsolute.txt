@@ -1,0 +1,11 @@
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.deps.json
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.dll
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\refint\Core.CrossCuttingConcerns.dll
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+D:\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\ref\Core.CrossCuttingConcerns.dll
