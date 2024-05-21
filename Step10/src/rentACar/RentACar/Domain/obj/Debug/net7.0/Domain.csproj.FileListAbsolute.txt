@@ -1,0 +1,15 @@
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.dll
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.pdb
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistence.dll
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistence.pdb
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.Up2Date
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.dll
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.pdb
+D:\nArchitectureDemo\src\rentACar\RentACar\Domain\obj\Debug\net7.0\ref\Domain.dll
