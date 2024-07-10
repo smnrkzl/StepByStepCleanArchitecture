@@ -1,0 +1,1045 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\enums\\authenticatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\enums\\authenticatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\otpauthenticator\\otpnet\\otpnetotpauthenticatorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\otpauthenticator\\otpnet\\otpnetotpauthenticatorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\otpauthenticator\\iotpauthenticatorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\otpauthenticator\\iotpauthenticatorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\extensions\\claimsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\extensions\\claimsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\entities\\emailauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\entities\\emailauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\entities\\otpauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\entities\\otpauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\entities\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\entities\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.security\\entities\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1250E177-FDA4-42DD-8696-A709548D698F}|Core.Security\\Core.Security.csproj|solutionrelative:core.security\\entities\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\serilog\\logger\\mssqllogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\serilog\\logger\\mssqllogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\serilog\\configurationmodels\\mssqlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\serilog\\configurationmodels\\mssqlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\logging\\logdetailwithexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\logging\\logdetailwithexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\serilog\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\serilog\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\pipelines\\logging\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\logging\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\pipelines\\logging\\iloggablerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\logging\\iloggablerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\serilog\\messages\\serilogmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\serilog\\messages\\serilogmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\serilog\\configurationmodels\\filelogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\serilog\\configurationmodels\\filelogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\serilog\\loggerservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\serilog\\loggerservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\logging\\logdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\logging\\logdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\logging\\logparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\logging\\logparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\pipelines\\caching\\cacheremovingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\caching\\cacheremovingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\pipelines\\caching\\icacheremoverrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\caching\\icacheremoverrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\pipelines\\caching\\cachingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\caching\\cachingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\pipelines\\caching\\icachablerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\caching\\icachablerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\pipelines\\caching\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\caching\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\pipelines\\validation\\transactionscopebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\validation\\transactionscopebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\pipelines\\transaction\\itransactionalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\transaction\\itransactionalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\validationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\validationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\pipelines\\validation\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\validation\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\types\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\types\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\rules\\basebusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\rules\\basebusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\internalservererrorproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\internalservererrorproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\types\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D8B7-8720-43E0-BEA9-AFE17F10B6C2}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\types\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.application\\request\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83331F-CDC9-4D39-B691-F772DC873536}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\request\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\repositories\\ientitytimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\ientitytimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|d:\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistence\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140EFFAB-E09C-4860-83F8-62C8BA49E843}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticatorType.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Enums\\AuthenticatorType.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Enums\\AuthenticatorType.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Enums\\AuthenticatorType.cs",
+              "RelativeToolTip": "Core.Security\\Enums\\AuthenticatorType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:43:08.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityKeyHelper.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Encryption\\SecurityKeyHelper.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeToolTip": "Core.Security\\Encryption\\SecurityKeyHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:17:06.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SigningCredentialsHelper.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeToolTip": "Core.Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:19:20.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Entities\\User.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\User.cs",
+              "RelativeToolTip": "Core.Security\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:37:38.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OtpNetOtpAuthenticatorHelper.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\OtpAuthenticator\\OtpNet\\OtpNetOtpAuthenticatorHelper.cs",
+              "RelativeDocumentMoniker": "Core.Security\\OtpAuthenticator\\OtpNet\\OtpNetOtpAuthenticatorHelper.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\OtpAuthenticator\\OtpNet\\OtpNetOtpAuthenticatorHelper.cs",
+              "RelativeToolTip": "Core.Security\\OtpAuthenticator\\OtpNet\\OtpNetOtpAuthenticatorHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:24:15.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenOptions.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\JWT\\TokenOptions.cs",
+              "RelativeDocumentMoniker": "Core.Security\\JWT\\TokenOptions.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\JWT\\TokenOptions.cs",
+              "RelativeToolTip": "Core.Security\\JWT\\TokenOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:59:19.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\JWT\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Core.Security\\JWT\\JwtHelper.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\JWT\\JwtHelper.cs",
+              "RelativeToolTip": "Core.Security\\JWT\\JwtHelper.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:58:07.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOtpAuthenticatorHelper.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\OtpAuthenticator\\IOtpAuthenticatorHelper.cs",
+              "RelativeDocumentMoniker": "Core.Security\\OtpAuthenticator\\IOtpAuthenticatorHelper.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\OtpAuthenticator\\IOtpAuthenticatorHelper.cs",
+              "RelativeToolTip": "Core.Security\\OtpAuthenticator\\IOtpAuthenticatorHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:22:19.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessToken.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\JWT\\AccessToken.cs",
+              "RelativeDocumentMoniker": "Core.Security\\JWT\\AccessToken.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\JWT\\AccessToken.cs",
+              "RelativeToolTip": "Core.Security\\JWT\\AccessToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:56:45.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenHelper.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\JWT\\ITokenHelper.cs",
+              "RelativeDocumentMoniker": "Core.Security\\JWT\\ITokenHelper.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\JWT\\ITokenHelper.cs",
+              "RelativeToolTip": "Core.Security\\JWT\\ITokenHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:55:56.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "Core.Security\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:32:55.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClaimsExtension.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Extensions\\ClaimsExtension.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Extensions\\ClaimsExtension.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Extensions\\ClaimsExtension.cs",
+              "RelativeToolTip": "Core.Security\\Extensions\\ClaimsExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:28:09.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HashingHelper.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Hashing\\HashingHelper.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Hashing\\HashingHelper.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Hashing\\HashingHelper.cs",
+              "RelativeToolTip": "Core.Security\\Hashing\\HashingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:22:08.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailAuthenticator.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\EmailAuthenticator.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Entities\\EmailAuthenticator.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\EmailAuthenticator.cs",
+              "RelativeToolTip": "Core.Security\\Entities\\EmailAuthenticator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:09:02.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OtpAuthenticator.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\OtpAuthenticator.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Entities\\OtpAuthenticator.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\OtpAuthenticator.cs",
+              "RelativeToolTip": "Core.Security\\Entities\\OtpAuthenticator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:06:44.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "Core.Security\\Entities\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:58:22.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserOperationClaim.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\UserOperationClaim.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Entities\\UserOperationClaim.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\UserOperationClaim.cs",
+              "RelativeToolTip": "Core.Security\\Entities\\UserOperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:47:31.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OperationClaim.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\OperationClaim.cs",
+              "RelativeDocumentMoniker": "Core.Security\\Entities\\OperationClaim.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Security\\Entities\\OperationClaim.cs",
+              "RelativeToolTip": "Core.Security\\Entities\\OperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:45:41.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MsSqlLogger.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\Logger\\MsSqlLogger.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Serilog\\Logger\\MsSqlLogger.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\Logger\\MsSqlLogger.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Serilog\\Logger\\MsSqlLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:34:27.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MsSqlConfiguration.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\ConfigurationModels\\MsSqlConfiguration.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Serilog\\ConfigurationModels\\MsSqlConfiguration.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\ConfigurationModels\\MsSqlConfiguration.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Serilog\\ConfigurationModels\\MsSqlConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:32:22.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:46:38.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\Logger\\FileLogger.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Serilog\\Logger\\FileLogger.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\Logger\\FileLogger.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Serilog\\Logger\\FileLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:18:25.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileLogConfiguration.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\ConfigurationModels\\FileLogConfiguration.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Serilog\\ConfigurationModels\\FileLogConfiguration.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\ConfigurationModels\\FileLogConfiguration.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Serilog\\ConfigurationModels\\FileLogConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:14:46.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LogDetailWithException.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Logging\\LogDetailWithException.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Logging\\LogDetailWithException.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Logging\\LogDetailWithException.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Logging\\LogDetailWithException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:04:41.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SerilogMessages.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\Messages\\SerilogMessages.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Serilog\\Messages\\SerilogMessages.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\Messages\\SerilogMessages.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Serilog\\Messages\\SerilogMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:16:56.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ILoggableRequest.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Logging\\ILoggableRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Logging\\ILoggableRequest.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Logging\\ILoggableRequest.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Logging\\ILoggableRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:57:51.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Logging\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Logging\\LoggingBehavior.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Logging\\LoggingBehavior.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Logging\\LoggingBehavior.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA+wC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:58:28.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoggerServiceBase.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\LoggerServiceBase.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Serilog\\LoggerServiceBase.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Serilog\\LoggerServiceBase.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Serilog\\LoggerServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:08:10.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LogDetail.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Logging\\LogDetail.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Logging\\LogDetail.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Logging\\LogDetail.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Logging\\LogDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:02:07.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LogParameter.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Logging\\LogParameter.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Logging\\LogParameter.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Logging\\LogParameter.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Logging\\LogParameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:59:53.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CacheRemovingBehavior.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Caching\\CacheRemovingBehavior.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Caching\\CacheRemovingBehavior.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Caching\\CacheRemovingBehavior.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Caching\\CacheRemovingBehavior.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvzYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:52:44.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICacheRemoverRequest.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Caching\\ICacheRemoverRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Caching\\ICacheRemoverRequest.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Caching\\ICacheRemoverRequest.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Caching\\ICacheRemoverRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:51:26.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CachingBehavior.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Caching\\CachingBehavior.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Caching\\CachingBehavior.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Caching\\CachingBehavior.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Caching\\CachingBehavior.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwGsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:21:47.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICachableRequest.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Caching\\ICachableRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Caching\\ICachableRequest.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Caching\\ICachableRequest.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Caching\\ICachableRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:18:12.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CacheSettings.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Caching\\CacheSettings.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Caching\\CacheSettings.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Caching\\CacheSettings.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Caching\\CacheSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:20:20.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TransactionScopeBehavior.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Validation\\TransactionScopeBehavior.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Validation\\TransactionScopeBehavior.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Validation\\TransactionScopeBehavior.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Validation\\TransactionScopeBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:42:37.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ITransactionalRequest.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Transaction\\ITransactionalRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Transaction\\ITransactionalRequest.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Transaction\\ITransactionalRequest.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Transaction\\ITransactionalRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:42:04.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ValidationProblemDetails.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:22:00.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HttpExceptionHandler.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:58:00.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:28:40.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RequestValidationBehavior.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:19:47.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:52:03.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InternalServerErrorProblemDetails.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:31:11.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseBusinessRules.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Rules\\BaseBusinessRules.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Rules\\BaseBusinessRules.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Rules\\BaseBusinessRules.cs",
+              "RelativeToolTip": "Core.Application\\Rules\\BaseBusinessRules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:15:20.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:52:04.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProblemDetailsExtensions.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:12:45.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BusinessProblemDetails.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:05:10.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:55:56.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BasePageableModel.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:39:47.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetListResponse.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Responses\\GetListResponse.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeToolTip": "Core.Application\\Responses\\GetListResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:08:18.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PageRequest.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Request\\PageRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Request\\PageRequest.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Request\\PageRequest.cs",
+              "RelativeToolTip": "Core.Application\\Request\\PageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:59:09.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IQueryableDynamicFilterExtensions.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:48:57.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Filter.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\Filter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:28:59.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DynamicQuery.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:34:50.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EfRepositoryBase.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\EfRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\EfRepositoryBase.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\EfRepositoryBase.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\EfRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAKBrwBwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:33:29.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T13:59:36.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IEntityTimestamps.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IEntityTimestamps.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IEntityTimestamps.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IEntityTimestamps.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IEntityTimestamps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:38:59.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Sort.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\Sort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:33:20.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IQueryablePaginateExtensions.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:09:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Paginate.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\Paginate.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\Paginate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:01:07.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\Entity.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T09:09:06.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:52:45.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IQuery.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IQuery.cs",
+              "ToolTip": "D:\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IQuery.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:56:08.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
